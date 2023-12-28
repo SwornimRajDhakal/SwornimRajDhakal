@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-**SwornimRajDhakal/SwornimRajDhakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**SwornimRajDhakal/SwornimRajDhakal** 
+Hello, World! 👋
+I'm Swornim Dhakal, a passionate Data Visualization enthusiast and Developer.
 
 - 🔭 I’m currently working with South West Recruitment .
-- 🌱 I’m currently learning (everything.)
+- 🌱 I’m currently learning to become more efficient analyst.
 - 👯 I’m looking to collaborate with like minded people ( who want to grow together)
 - 🤔 I’m currently looking for help with: Employment in the IT sector in UK. 
 - 💬 Ask me about : my music compositions
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: into music and video edits as hobby. I like being creative . 
 
-
-Hello, World! 👋
-I'm Swornim Dhakal, a passionate Data Visualization enthusiast and Developer.
 
 👩‍💻 **About Me**
 💼 Data Visualization Specialist 
@@ -28,6 +25,7 @@ I'm Swornim Dhakal, a passionate Data Visualization enthusiast and Developer.
 💻 HTML | CSS | JS
 📁 SQL | Database Management
 📊 What I Do
+
 Transforming raw data into meaningful insights, I specialize in creating visually appealing and informative dashboards using Power BI. From slicing and dicing in Excel to crafting interactive charts with Python, my goal is to bring data to life.
 
 🚀 **Projects**
@@ -39,8 +37,8 @@ Check out some of my notable projects:
 🌐 Connect with Me
 Let's connect and discuss all things data! You can find me on:
 
-💼 LinkedIn: https://www.linkedin.com/in/swornimrajdhakal/
-🌐 Personal Website:  https://www.swornimrajdhakal.com.np
-📈 GitHub Stats
+💼 **LinkedIn**: https://www.linkedin.com/in/swornimrajdhakal/
+🌐 **Personal Website**:  https://www.swornimrajdhakal.com.np
+📈 **GitHub Stats**
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or a friendly chat!
