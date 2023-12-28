@@ -30,6 +30,7 @@ I'm Swornim Dhakal, a passionate Data Visualization enthusiast and Developer.
 Transforming raw data into meaningful insights, I specialize in creating visually appealing and informative dashboards using Power BI. From slicing and dicing in Excel to crafting interactive charts with Python, my goal is to bring data to life.
 
 🚀 **Projects**
+
 Check out some of my notable projects:
 
 📈 Project 1: data analysis
@@ -39,7 +40,10 @@ Check out some of my notable projects:
 Let's connect and discuss all things data! You can find me on:
 
 💼 **LinkedIn**: https://www.linkedin.com/in/swornimrajdhakal/
+
 🌐 **Personal Website**:  https://www.swornimrajdhakal.com.np
+
 📈 **GitHub Stats**
+
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or a friendly chat!
