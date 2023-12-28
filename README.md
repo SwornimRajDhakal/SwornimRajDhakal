@@ -16,6 +16,7 @@ I'm Swornim Dhakal, a passionate Data Visualization enthusiast and Developer.
 
 
 👩‍💻 **About Me**
+
 💼 Data Visualization Specialist 
 🌐 Exploring the world of data through Python, Excel, Power BI, and SQL
 🚀 Always learning and evolving in the ever-changing data landscape
