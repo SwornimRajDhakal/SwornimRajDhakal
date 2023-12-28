@@ -9,7 +9,7 @@ I'm Swornim Dhakal, a passionate Data Visualization enthusiast and Developer.
 - 🌱 I’m currently learning to become more efficient analyst.
 - 👯 I’m looking to collaborate with like minded people ( who want to grow together)
 - 🤔 I’m currently looking for help with: Employment in the IT sector in UK. 
-- 💬 Ask me about : my music compositions
+- 💬 Ask me about : my current projects
 - 📫 How to reach me: swornimrajdhakal@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: into music and video edits as hobby. I like being creative . 
