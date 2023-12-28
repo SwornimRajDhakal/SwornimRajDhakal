@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **SwornimRajDhakal/SwornimRajDhakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: swornimrajdhakal@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: into music and video edits as hobby. I like being creative . 
--->
+
 
 Hello, World! 👋
 I'm Swornim Dhakal, a passionate Data Visualization enthusiast and Developer.
