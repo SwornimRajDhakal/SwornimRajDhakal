@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hello, World! 👋
 I'm Swornim Dhakal, a passionate Data Visualization enthusiast and Developer.
 
-👩‍💻 About Me
+👩‍💻 **About Me**
 💼 Data Visualization Specialist 
 🌐 Exploring the world of data through Python, Excel, Power BI, and SQL
 🚀 Always learning and evolving in the ever-changing data landscape
@@ -30,7 +30,7 @@ I'm Swornim Dhakal, a passionate Data Visualization enthusiast and Developer.
 📊 What I Do
 Transforming raw data into meaningful insights, I specialize in creating visually appealing and informative dashboards using Power BI. From slicing and dicing in Excel to crafting interactive charts with Python, my goal is to bring data to life.
 
-🚀 Projects
+🚀 **Projects**
 Check out some of my notable projects:
 
 📈 Project 1: data analysis
