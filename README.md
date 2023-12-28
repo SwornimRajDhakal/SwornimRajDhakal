@@ -41,7 +41,9 @@ Let's connect and discuss all things data! You can find me on:
 
 💼 **LinkedIn**: https://www.linkedin.com/in/swornimrajdhakal/
 
+
 🌐 **Personal Website**:  https://www.swornimrajdhakal.com.np
+
 
 📈 **GitHub Stats**
 
