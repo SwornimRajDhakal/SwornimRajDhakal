@@ -14,7 +14,6 @@ I'm Swornim Dhakal, a passionate Data Visualization enthusiast and Developer.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: into music and video edits as hobby. I like being creative . 
 
-
 👩‍💻 **About Me**
 
 💼 Data Visualization Specialist 
