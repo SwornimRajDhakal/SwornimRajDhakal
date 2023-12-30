@@ -49,3 +49,5 @@ Let's connect and discuss all things data! You can find me on:
 
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or a friendly chat!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwornimRajDhakal)](https://github.com/anuraghazra/github-readme-stats)
