@@ -1,27 +1,9 @@
 
 
-
-
-
-
-📊 What I Do
-
-
-
-
-
-💼 **LinkedIn**: https://www.linkedin.com/in/swornimrajdhakal/
-
-
-🌐 **Personal Website**:  https://www.swornimrajdhakal.com.np
-
-
 📈 **GitHub Stats**
 
 
-Feel free to explore my repositories and don't hesitate to reach out for collaboration or a friendly chat!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwornimRajDhakal)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -61,6 +43,10 @@ Check out some of my notable projects:
 📉 Project 3: Power BI Report for Financial Analysis
 🌐 protfolio site: https://www.swornimrajdhakal.com.np
 
+Feel free to explore my repositories and don't hesitate to reach out for collaboration or a friendly chat!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwornimRajDhakal)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 Transforming raw data into meaningful insights, I specialize in creating visually appealing and informative dashboards using Power BI. From slicing and dicing in Excel to crafting interactive charts with Python, my goal is to bring data to life.
@@ -73,4 +59,11 @@ Transforming raw data into meaningful insights, I specialize in creating visuall
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/SwornimRajDhakal)  
 
+Contact me 
 
+💼 **LinkedIn**: https://www.linkedin.com/in/swornimrajdhakal/
+
+
+🌐 **Personal Website**:  https://www.swornimrajdhakal.com.np
+
+email adress : swornimrajdhakal@gmail.com
