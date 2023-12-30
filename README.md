@@ -1,7 +1,4 @@
-### Hi there 👋
 
-
-**SwornimRajDhakal/SwornimRajDhakal** 
 Hello, World! 👋
 I'm Swornim Dhakal, a passionate Data Visualization enthusiast and Developer.
 
