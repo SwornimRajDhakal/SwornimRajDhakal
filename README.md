@@ -25,14 +25,15 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 feel free to check out my projects.
 
 Skills: Python - Datavisualization / Ms Excel/ Power BI / HTML / CSS /JS/ MYSQL
-
+<essembly>
 - 🔭 I’m currently working on https://www.sidekam.com 
 - 🌱 I’m currently learning : Python - Datavisualization / Ms Excel/ Power BI / HTML / CSS /JS/ MYSQL 
 - 👯 I’m looking to collaborate on with like minded people 
 - 🤔 I’m looking for help with finding a stable IT job in the UK 
 - 💬 Ask me about My project if you are curious 
 - 📫 How to reach me: www.swornimrajdhakal@gmail.com 
-- 😄 Pronouns: He/Him 
+- 😄 Pronouns: He/Him
+</essembly>
 
 Transforming raw data into meaningful insights, I specialize in creating visually appealing and informative dashboards using Power BI. From slicing and dicing in Excel to crafting interactive charts with Python, my goal is to bring data to life.
 
