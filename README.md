@@ -14,8 +14,6 @@ The links below are **clickable** and leads to my projects.
 
 🚀 **Projects**
 
-Check out some of my notable projects:
-
 📈 Project 1: data analysis
 📊 Project 2: Mysql 
 📉 Project 3: Power BI Report for Financial Analysis
@@ -23,7 +21,7 @@ Check out some of my notable projects:
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or a friendly chat!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwornimRajDhakal)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwornimRajDhakal)](https://github.com/SwornimRajDhakal/github-readme-stats)
 
 feel free to check out my projects.
 
