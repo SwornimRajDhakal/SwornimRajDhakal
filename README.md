@@ -1,15 +1,3 @@
-
-
-📈 **GitHub Stats**
-
-
-
-
-
-
-
-############################ here 
-
 ### Hi there 👋, my name is Swornim Dhakal
 #### I am a passionate Data Visualization enthusiast and Developer.
 ![I am a passionate Data Visualization enthusiast and Developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
