@@ -35,7 +35,7 @@ Transforming raw data into meaningful insights, I specialize in creating visuall
 Check out some of my notable projects:
 
 📈 Project 1: data analysis
-📊 Project 2: sql website
+📊 Project 2: Mysql 
 📉 Project 3: Power BI Report for Financial Analysis
 🌐 Connect with Me
 Let's connect and discuss all things data! You can find me on:
