@@ -14,6 +14,7 @@ The links below are **clickable** and leads to my projects.
 📈 Project 1: data analysis
 📊 Project 2: Mysql 
 📉 Project 3: Power BI Report for Financial Analysis
+🌐 Project 4: https://www.sidekam.com
 🌐 protfolio site: https://www.swornimrajdhakal.com.np
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or a friendly chat!
