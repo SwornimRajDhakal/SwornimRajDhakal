@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Swornim Dhakal
-#### I am a passionate Data Visualization enthusiast and Developer.
-![I am a passionate Data Visualization enthusiast and Developer.]
+#### I would like to express myself as a Software / Fullstack developer [ Creative Thinker ]
 
 
 
