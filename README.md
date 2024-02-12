@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Swornim Dhakal
 #### I am a passionate Data Visualization enthusiast and Developer.
-![I am a passionate Data Visualization enthusiast and Developer.](https://github.com/SwornimRajDhakal/SwornimRajDhakal/blob/main/banner%20github.jpg)
+![I am a passionate Data Visualization enthusiast and Developer.]
 
 
 
